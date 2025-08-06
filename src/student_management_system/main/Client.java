@@ -6,6 +6,7 @@ import student_management_system.model.Student;
 
 import java.sql.SQLOutput;
 import java.util.Scanner;
+//student result management
 
 public class Client {
     public static void main(String[] args) {
